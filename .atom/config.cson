@@ -1,0 +1,45 @@
+"*":
+  "atom-ide-ui":
+    hyperclick:
+      darwinTriggerKeys: "altKey,metaKey"
+  "better-git-blame":
+    searchInLayerEnabled: false
+  core:
+    allowPendingPaneItems: false
+    customFileTypes:
+      "source.js.jsx": [
+        "js"
+      ]
+    disabledPackages: [
+      "linter"
+      "prettier-atom"
+    ]
+    telemetryConsent: "no"
+    themes: [
+      "one-dark-ui"
+      "dark-one-dark-syntax"
+    ]
+    titleBar: "custom-inset"
+  editor:
+    fontSize: 13
+    preferredLineLength: 120
+  "exception-reporting":
+    userId: "06f1c064-32fa-4c0f-8ed3-d08ccfea70e4"
+  "fuzzy-finder":
+    scoringSystem: "fast"
+    useRipGrep: true
+  "linter-ui-default":
+    panelHeight: 300
+  lorem:
+    defaults: {}
+  "one-dark-ui": {}
+  welcome:
+    showOnStartup: false
+".editorconfig.source":
+  editor:
+    autoIndent: false
+    autoIndentOnPaste: false
+    tabType: "soft"
+".reason.source":
+  editor:
+    preferredLineLength: 110
