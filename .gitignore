@@ -10,12 +10,11 @@
 !.atom/packages.txt
 !.atom/snippets.cson
 !.atom/styles.less
+!.iterm2
 !.nano
 !.gitconfig
 !.gitignore
 !.gitmessage
-!.iterm2
-!.itermcolors
 !.nanorc
 !.neofetch
 !.neofetch_ascii
