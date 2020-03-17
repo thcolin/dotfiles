@@ -10,6 +10,7 @@
 !.atom/packages.txt
 !.atom/snippets.cson
 !.atom/styles.less
+!.nano
 !.gitconfig
 !.gitignore
 !.gitmessage
@@ -18,4 +19,5 @@
 !.nanorc
 !.neofetch
 !.neofetch_ascii
+!.zshrc
 !Brewfile
